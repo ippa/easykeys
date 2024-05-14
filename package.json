@@ -1,0 +1,31 @@
+{
+  "name": "easykeys",
+  "version": "0.1.0",
+  "description": "simple but powerful keybindings for webapps and games",
+  "main": "easykeys.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ippa/easykeys.git"
+  },
+  "keywords": [
+    "keyboard",
+    "keybindings",
+    "keycombos",
+    "keyboard events",
+    "keyboard shortcuts",
+    "keyboard input",
+    "keyboard handling",
+    "keyboard mapping"
+  ],
+  "author": "ippa",
+  "license": "ISC",
+  "homepage": "https://github.com/ippa/easykeys#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
